@@ -75,14 +75,32 @@ Other Stock Features:
 - **Semester:** Spring 2024  
 - **Developed By:** Waseem Sajjad (23rd Batch – Cyber Security)
 
-## 📸 Screenshots
-### Class Diagram
-![Class diagram Screenshot](docs/class_diagram.jpg)
+## 📸 Screenshots & Diagram
 
+### 🗂️ [Class Diagram](class_diagram.jpg)
+
+### 🏠 Home Menu
+![Home Menu](docs/home.png)
+
+### 🔐 Admin Login & Menu
+![Admin Menu](docs/admin_menu.png)
+
+### 👷 Employee Menu
+![Employee Menu](docs/employee_menu.png)
+
+### 🧑‍🎓 Student Menu
+![Student Menu](docs/student_menu.png)
 
 ## ⚙️ How to Run
 
 1. Compile using any C++ compiler:
    Run directly from the main.cpp. All files are linked together with main.cpp.
+
+   ## 📬 Contact
+
+If you face any issues running this project or have any questions, feel free to reach out:
+
+📧 **Email:** wassem.sajjad.cybersec@gmail.com
+
 
 
