@@ -94,8 +94,6 @@ Other Stock Features:
 
 ## ⚙️ How to Run
 
-## 🛠️ How to Compile & Run
-
 Compile using any C++ compiler. Run directly from `main.cpp` — all other files and modules are linked with it.
 
 ## 🔐 Admin Login Credentials
