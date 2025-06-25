@@ -94,11 +94,17 @@ Other Stock Features:
 
 ## ⚙️ How to Run
 
-1. Compile using any C++ compiler:
-   Run directly from the main.cpp. All files are linked together with main.cpp.
-   Kindly use the following credentials for admin login.
-   username: admin
-   pass: admin123
+## 🛠️ How to Compile & Run
+
+Compile using any C++ compiler. Run directly from `main.cpp` — all other files and modules are linked with it.
+
+## 🔐 Admin Login Credentials
+
+Use the following credentials to access the admin panel:
+
+- **Username:** `admin`  
+- **Password:** `admin123`
+
 
 ## 📬 Contact
 
