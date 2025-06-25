@@ -77,7 +77,8 @@ Other Stock Features:
 
 ## 📸 Screenshots & Diagram
 
-### 🗂️ [Class Diagram](class_diagram.jpg)
+### 🗂️ Class Diagram
+![Class Diagram(docs/class_diagram.jpg)
 
 ### 🏠 Home Menu
 ![Home Menu](docs/home.png)
