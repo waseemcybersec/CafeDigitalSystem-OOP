@@ -97,6 +97,7 @@ Other Stock Features:
 1. Compile using any C++ compiler:
    Run directly from the main.cpp. All files are linked together with main.cpp.
    admin username: admin
+   
    admin pass: admin123
 
 ## 📬 Contact
