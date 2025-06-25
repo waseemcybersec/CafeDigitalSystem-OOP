@@ -1,1 +1,14 @@
-
+Pasta 31 150
+Salad 60 10
+Sandwich 80 40
+chai 8 80
+sprite 23 70
+karrahi 30 200
+chatt 50 40
+Biryani 80 120
+coca_cola 108 60
+zinger 25 80
+juice 30 120
+biryani 33 100
+pizza 100 100
+chawal 20 200
