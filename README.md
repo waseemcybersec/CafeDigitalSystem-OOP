@@ -81,16 +81,16 @@ Other Stock Features:
 ![Class Diagram](docs/class_diagram.jpg)
 
 ### 🏠 Home Menu
-![Home Menu](docs/home.png)
+![Home Menu](docs/home.PNG)
 
 ### 🔐 Admin Login & Menu
-![Admin Menu](docs/admin_menu.png)
+![Admin Menu](docs/admin_menu.PNG)
 
 ### 👷 Employee Menu
-![Employee Menu](docs/employee_menu.png)
+![Employee Menu](docs/employee_menu.PNG)
 
 ### 🧑‍🎓 Student Menu
-![Student Menu](docs/student_menu.png)
+![Student Menu](docs/student_menu.PNG)
 
 ## ⚙️ How to Run
 
