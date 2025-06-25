@@ -103,6 +103,9 @@ Use the following credentials to access the admin panel:
 - **Username:** `admin`  
 - **Password:** `admin123`
 
+## Show your support
+
+Please ⭐️ this repository if this project helped you!
 
 ## 📬 Contact
 
