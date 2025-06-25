@@ -76,7 +76,9 @@ Other Stock Features:
 - **Developed By:** Waseem Sajjad (23rd Batch – Cyber Security)
 
 ## 📸 Screenshots
-> 📌 *Include screenshots of menu, login screen, stock panel, complaints section, etc.*
+### Class Diagram
+![Class diagram Screenshot](docs/class_diagram.jpg)
+
 
 ## ⚙️ How to Run
 
